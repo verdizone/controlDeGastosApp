@@ -7,7 +7,7 @@ const NuevoPresupuesto = ( {presupuesto, setPresupuesto, isValidPresupuesto, set
     
     const handleSubmit=(e)=>{
         e.preventDefault()
-        console.log('Enviando form...');
+        // console.log('Enviando form...');
 
         // Validar si el campo no esta vacio
 
